@@ -1,0 +1,12 @@
+p {
+  font: var(--headling5);
+  font-weight: 400;
+  text-align: center;
+}
+p:nth-child(2) {
+  font: var(--headling5);
+}
+.description img {
+  display: block;
+  margin: auto;
+}
