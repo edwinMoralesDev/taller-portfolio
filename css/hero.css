@@ -13,8 +13,10 @@
   max-inline-size: 100%;
   block-size: auto;
 }
-.hero-social {
+.social {
   padding-block-end: 24px;
+  display: flex;
+  gap: 16px;
 }
 .hero h1 {
   font: var(--headling3);
